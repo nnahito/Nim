@@ -14,5 +14,5 @@ allowing you to create commercial applications.
 
 Read copying.txt for more details.
 
-Copyright (c) 2006-2018 Andreas Rumpf.
+Copyright (c) 2006-2020 Andreas Rumpf.
 All rights reserved.
